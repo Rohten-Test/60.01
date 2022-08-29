@@ -20,11 +20,19 @@ Entscheidungskriterien für den kauf eines Druckers.
  - Strom verbrauch
  - Papierformat
  
-Partition
+Partition:
 Bei MBR partitionsschema entweder 4 Primäre oder 3 Primäre und 1 erweiterte Partion möglich. Bis maximal 2TiB
 ich zitiere Steve: in einer erweiterten Partion kann man beliebig viele Logische Partionen erstellen. 
+MBR nutzt BIOS und kann nicht UEFI
+MBR speichert information in den ersten Sektor mit logischen block adresse (LBA) 1.
+Diese beinhaltet die master partition table (MPT), den master Boot Code (MBC) und die Disk Signature.
+Das Bios sucht nach der Partion mit dem MBR und führt dann den Bootcode aus.
+Als nächstes aktiviert der MBR den  Bootsektor und startet das OS.
 
-Bei GBT bis zu 128 Partitionen möglich. Bis maximal 8 ZebiB
+Bei GPT bis zu 128 Partitionen möglich. Bis maximal 8 ZebiB
+Global Unique Identification Partition Table es benötigt UEFI
+Windows früher als Win 8 nicht mit GBT bootfähig
+
 
 Vor-/Nachteile von HDD - SDD
 Vorteile SSD:
@@ -70,4 +78,18 @@ Bauteile:
   - Soundkarte
   - WLAN Karte
  
+ Umwandlung von Dezimalzahlen in Dualzahlen:
+ Division:
+ ![1_3](https://user-images.githubusercontent.com/109280187/187207208-249d05f2-1862-4100-8b87-f411f085b7c6.PNG)
+  
+  Subtraktionsmethode:
+  Tabelle mit den Stellenwerten anlegen
+  Stellenwerte:                  2^9 | 2^8 | ... | 2^0
+  Stellenwerte als Dezimalwerte: 512 | 256 | ... | 1
+  
+  ![1_4](https://user-images.githubusercontent.com/109280187/187207949-f2d9517f-9de7-413a-85b7-323252fb5952.PNG)
+
+  (!) Binärzahlen von rechts nach links schreiben (!)
+  
+
 
