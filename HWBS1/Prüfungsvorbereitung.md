@@ -47,9 +47,11 @@ Vorteile SSD:
   
 Von Neumann:
 Grundlegendes Blockschaltbild eines Computers:
-(Bild 1_1)
+![1_1](https://user-images.githubusercontent.com/109280187/187205133-b80d25b7-1622-41d7-a09b-8279ca45901b.PNG)
+
 Achitektur des Von-Neumann-Rechners:
-(Bild 2_2)
+![2_2](https://user-images.githubusercontent.com/109280187/187205220-ea6df6e1-91df-4e77-88ab-0737ab40a482.PNG)
+
 
 EVA:
 Eingabe - Verarbeitung - Ausgabe
