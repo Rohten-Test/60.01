@@ -91,5 +91,8 @@ Bauteile:
 
   (!) Binärzahlen von rechts nach links schreiben (!)
   
+  
+  ![1_5](https://user-images.githubusercontent.com/109280187/187211813-a7f4cb3b-4fd3-4f6f-8e5c-ab8d44af60cd.PNG)
+
 
 
