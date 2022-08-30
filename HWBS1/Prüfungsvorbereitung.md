@@ -107,7 +107,8 @@ Bauteile:
 	- Windows Pro für kleine Firmen (oder prosumer)
 	- Windows Pro für Workstations; hat ein robustes Dateisystem (REFS)
 		-> Normale Pro hat kein robustes Dateisystem (??)
-	- Windows Server für Firmen, Pornoseitenhoster, das Krankenhaus in Meerheim hat Faruk festgestellt (deshalb funktioniert da auch gar nix).
+	- Windows Server für Firmen, Pornoseitenhoster, das Krankenhaus in Meerheim hat Faruk festgestellt 
+	  (deshalb funktioniert da auch gar nix).
 		-> Die hosten sogar ihre Website über Windows Server
 		
 	
@@ -118,8 +119,10 @@ Bauteile:
   Sysprep:
   	
 	- Ein Hilfsprogramm von Mikrosoft für die Ersteinrichtung (bzw. Image-Erstellung)
-		-> Im Audit-Modus können Benutzerkonten voreingestellt werden, Bloatware (de-)installiert werden, und diverse Einstellungen am Computer vorgenommen 		       werden.
-		-> Anschließend können hardwarebezogene Informationen aus dem Image entfernt werden und der sogenannte OOB (Out of Box-Experience) Modus aktiviert 		      werden, damit Nutzer eine vereinfachte Ersteinrichtung haben.
+		-> Im Audit-Modus können Benutzerkonten voreingestellt werden, Bloatware (de-)installiert werden,
+		   und diverse Einstellungen am Computer vorgenommen werden.
+		-> Anschließend können hardwarebezogene Informationen aus dem Image entfernt werden und der sogenannte OOB
+		   (Out of Box-Experience) Modus aktiviert werden, damit Nutzer eine vereinfachte Ersteinrichtung haben.
 		
   Ein-/Ausgabegeräte:
   
@@ -154,7 +157,7 @@ Bauteile:
 		- 3D-Drucker
 		- Laut den Folien von Jim VR-Brillen
 		
-		VR-Brillen machen keinen Sinn (Quelle: Ich glaube Gian-Marc oder so)
+	VR-Brillen machen keinen Sinn (Quelle: Ich glaube Gian-Marc oder so)
 		
   HDD-Sektorengröße zu GB/Gibbi/Gb:
   
@@ -162,13 +165,6 @@ Bauteile:
 	
 	- Formel für Speicherplatz:
 	
-	Sektorengröße * Anzahl Sektoren / ((1000 (GB) oder 1024 (Gibbi)) * 3 )
+	  Sektorengröße * Anzahl Sektoren / ((1000 (GB) oder 1024 (Gibbi)) * 3 )
 	
-	
-		
-
-	
-  ![1_5](https://user-images.githubusercontent.com/109280187/187211813-a7f4cb3b-4fd3-4f6f-8e5c-ab8d44af60cd.PNG)²
-
-
 
