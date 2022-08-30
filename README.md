@@ -2,4 +2,4 @@
 60.01 Gruppen Git (:
 
 
-# [Wiki](wiki/) mit Infos wie Feiertage und Prüfungsterminen
+# [Wiki](/wiki/) mit Infos wie Feiertage und Prüfungsterminen
