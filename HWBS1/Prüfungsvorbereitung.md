@@ -91,8 +91,84 @@ Bauteile:
 
   (!) Binärzahlen von rechts nach links schreiben (!)
   
+  Netzwerke:
   
-  ![1_5](https://user-images.githubusercontent.com/109280187/187211813-a7f4cb3b-4fd3-4f6f-8e5c-ab8d44af60cd.PNG)
+  	- Standart-Subnet-mask: 255.255.255.0
+	- Domänennamen werden über ein DNS in Adressen (IPv4/IPv6) umgewandelt
+	- Den ganzen Kladderadatsch stellt man im Netzwerkadapter ein
+	- Und der ist immer aktiv sonst gibt es keine Verbindung!
+	
+  Windows-Versionen:
+  	
+	- Home für Home (höh)
+	- Home ist eigentlich Kacke, weil du hast kein RDT(RDP eigentlich, aber okay) und so.
+  	- Windows Enterprise für Schulen, Behörden, und größere Unternehmen
+	- Windows Education für Schüler und Universitäten, Schulen
+	- Windows Pro für kleine Firmen (oder prosumer)
+	- Windows Pro für Workstations; hat ein robustes Dateisystem (REFS)
+		-> Normale Pro hat kein robustes Dateisystem (??)
+	- Windows Server für Firmen, Pornoseitenhoster, das Krankenhaus in Meerheim hat Faruk festgestellt (deshalb funktioniert da auch gar nix).
+		-> Die hosten sogar ihre Website über Windows Server
+		
+	
+	-> Es ist Windows, also.
+	
+	Quelle: Faruk.
+	
+  Sysprep:
+  	
+	- Ein Hilfsprogramm von Mikrosoft für die Ersteinrichtung (bzw. Image-Erstellung)
+		-> Im Audit-Modus können Benutzerkonten voreingestellt werden, Bloatware (de-)installiert werden, und diverse Einstellungen am Computer vorgenommen 		       werden.
+		-> Anschließend können hardwarebezogene Informationen aus dem Image entfernt werden und der sogenannte OOB (Out of Box-Experience) Modus aktiviert 		      werden, damit Nutzer eine vereinfachte Ersteinrichtung haben.
+		
+  Ein-/Ausgabegeräte:
+  
+  	- Joa ein/ausgabegeräte
+	- Beispiele für Eingabegeräte:
+		- Tastatur
+		- Maus
+		- Joystick
+		- Mikrofon
+		- Controller
+		- Kamera
+		- Scanner 
+		- Barcodescanner
+		- Touchpad
+		- Eitracker
+		- Trackballs
+		- Fingerabdrucksensor
+		- Iris-Scanner
+		- USB-Waagen???
+		
+	- Beispiele für Ausgabegeräte:
+		- Monitor
+		- Lautsprecher
+		- A4-Drucker
+		- Wie wär's mit halt dein Maul?
+		- Plotter
+		- Beamer
+		- *Ping*
+		- USB-Ventilatoren
+		- Ralf seine Heizung
+		- Rauschen auf dem Mikrofon
+		- 3D-Drucker
+		- Laut den Folien von Jim VR-Brillen
+		
+		VR-Brillen machen keinen Sinn (Quelle: Ich glaube Gian-Marc oder so)
+		
+  HDD-Sektorengröße zu GB/Gibbi/Gb:
+  
+  	- 512 bit oder 4096 bit -> ein Sektor
+	
+	- Formel für Speicherplatz:
+	
+	Sektorengröße * Anzahl Sektoren / ((1000 (GB) oder 1024 (Gibbi)) * 3 )
+	
+	
+		
+
+	
+  ![1_5](https://user-images.githubusercontent.com/109280187/187211813-a7f4cb3b-4fd3-4f6f-8e5c-ab8d44af60cd.PNG)²
 
 
 
