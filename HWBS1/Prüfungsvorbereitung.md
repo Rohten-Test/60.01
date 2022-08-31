@@ -118,7 +118,7 @@ Bauteile:
 	
   Sysprep:
   	
-	- Ein Hilfsprogramm von Mikrosoft für die Ersteinrichtung (bzw. Image-Erstellung)
+	- Ein Hilfsprogramm von Microsoft für die Ersteinrichtung (bzw. Image-Erstellung)
 		-> Im Audit-Modus können Benutzerkonten voreingestellt werden, Bloatware (de-)installiert werden,
 		   und diverse Einstellungen am Computer vorgenommen werden.
 		-> Anschließend können hardwarebezogene Informationen aus dem Image entfernt werden und der sogenannte OOB
