@@ -146,7 +146,7 @@ Bauteile:
 		
   HDD-Sektorengröße zu GB/Gib/Gb:
   
-  	- 512 bit oder 4096 bit -> ein Sektor
+  	- 512 byte oder 4096 byte -> ein Sektor
 	
 	- Formel für Speicherplatz:
 	
