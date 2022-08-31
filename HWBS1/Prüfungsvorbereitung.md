@@ -94,27 +94,19 @@ Bauteile:
   Netzwerke:
   
   	- Standart-Subnet-mask: 255.255.255.0
-	- Domänennamen werden über ein DNS in Adressen (IPv4/IPv6) umgewandelt
-	- Den ganzen Kladderadatsch stellt man im Netzwerkadapter ein
+	- Domain Namen werden über ein DNS in Adressen (IPv4/IPv6) umgewandelt
+	- Das ganze wird im Netzwerkadapter eingestellt
 	- Und der ist immer aktiv sonst gibt es keine Verbindung!
 	
   Windows-Versionen:
   	
-	- Home für Home (höh)
-	- Home ist eigentlich Kacke, weil du hast kein RDT(RDP eigentlich, aber okay) und so.
+	- Home für Privatnutzer
   	- Windows Enterprise für Schulen, Behörden, und größere Unternehmen
 	- Windows Education für Schüler und Universitäten, Schulen
 	- Windows Pro für kleine Firmen (oder prosumer)
 	- Windows Pro für Workstations; hat ein robustes Dateisystem (REFS)
 		-> Normale Pro hat kein robustes Dateisystem (??)
-	- Windows Server für Firmen, Pornoseitenhoster, das Krankenhaus in Meerheim hat Faruk festgestellt 
-	  (deshalb funktioniert da auch gar nix).
-		-> Die hosten sogar ihre Website über Windows Server
-		
-	
-	-> Es ist Windows, also.
-	
-	Quelle: Faruk.
+	- Windows Server für Firmen
 	
   Sysprep:
   	
@@ -126,7 +118,6 @@ Bauteile:
 		
   Ein-/Ausgabegeräte:
   
-  	- Joa ein/ausgabegeräte
 	- Beispiele für Eingabegeräte:
 		- Tastatur
 		- Maus
@@ -137,7 +128,7 @@ Bauteile:
 		- Scanner 
 		- Barcodescanner
 		- Touchpad
-		- Eitracker
+		- eyetracker
 		- Trackballs
 		- Fingerabdrucksensor
 		- Iris-Scanner
@@ -147,17 +138,11 @@ Bauteile:
 		- Monitor
 		- Lautsprecher
 		- A4-Drucker
-		- Wie wär's mit halt dein Maul?
 		- Plotter
 		- Beamer
-		- *Ping*
-		- USB-Ventilatoren
-		- Ralf seine Heizung
-		- Rauschen auf dem Mikrofon
 		- 3D-Drucker
-		- Laut den Folien von Jim VR-Brillen
+		- Laut den Folien von Jim VR-Brillen (ist aber eigentlich ein Mixgerät)
 		
-	VR-Brillen machen keinen Sinn (Quelle: Ich glaube Gian-Marc oder so)
 		
   HDD-Sektorengröße zu GB/Gib/Gb:
   
