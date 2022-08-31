@@ -159,12 +159,12 @@ Bauteile:
 		
 	VR-Brillen machen keinen Sinn (Quelle: Ich glaube Gian-Marc oder so)
 		
-  HDD-Sektorengröße zu GB/Gibbi/Gb:
+  HDD-Sektorengröße zu GB/Gib/Gb:
   
   	- 512 bit oder 4096 bit -> ein Sektor
 	
 	- Formel für Speicherplatz:
 	
-	  Sektorengröße * Anzahl Sektoren / ((1000 (GB) oder 1024 (Gibbi)) * 3 )
+	  Sektorengröße * Anzahl Sektoren / ((1000 (GB) oder 1024 (Gib)) * 3 )
 	
 
